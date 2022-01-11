@@ -25,14 +25,9 @@ h1{
    cursor: pointer;
 }
 
-.icon-container::selection{
+.icon-container span:hover {
     color: rgb(241, 100, 65); 
 }
-
-.icon-container span::selection {
-    color: rgb(241, 100, 65); 
-}
-
 
 .menu-section {
     margin-top: 20px;
