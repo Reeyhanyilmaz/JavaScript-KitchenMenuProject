@@ -1,0 +1,25 @@
+body {
+    background-color: #f7ece7;
+    height: auto;
+}
+
+h1{
+    font-family: "Great Vibes", cursive;
+    font-size: 100px;
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(247, 132, 103);
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 50px;
+   color: rgb(247, 132, 103);
+   cursor: pointer;
+}
+
+.icon-container span:hover{
+    color: rgb(241, 100, 65); 
+}
